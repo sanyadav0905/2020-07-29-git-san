@@ -12,7 +12,7 @@
 - `git log`: will show you the git log
    - `got log --onne line` : will give you the oneline version of the log
    
-- `git diff`
-   - `git diff --staged`
+- `git diff`: diff the current state with the last known git state
+   - `git diff --staged` : diff files in the staging area
    
-- `HEAD`: where 
+- `HEAD`: where you are currently looking (i.e., what the files on your computer are)
