@@ -9,4 +9,10 @@
 - 'git commit': will open up an editor to write a commit message
    -  `'git commit -m "your message"` : write <message> to commit in 1 step 
 
-
+- `git log`: will show you the git log
+   - `got log --onne line` : will give you the oneline version of the log
+   
+- `git diff`
+   - `git diff --staged`
+   
+- `HEAD`: where 
